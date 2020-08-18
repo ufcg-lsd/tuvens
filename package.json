@@ -1,0 +1,9 @@
+{
+  "name": "tuvens",
+  "version": "0.0.1",
+  "description": "Organizando nossa presença física durante a COVID-19",
+  "main": "index.js",
+  "repository": "https://github.com/ufcg-lsd/tuvens.git",
+  "author": "Héricles <hericles.me@gmail.com>",
+  "license": "MIT"
+}
