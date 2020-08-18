@@ -49,3 +49,6 @@ Agora é só começar a fazer as mudanças e você verá as alteraçes em seu na
 ## Como Contribuir
 
 Veja nosso [CONTRIBUTING](/CONTRIBUTING.md) e o [Código de Conduta](/CODE_OF_CONDUCT.md).
+
+## Licença
+[MIT License](https://github.com/ufcg-lsd/tuvens/blob/master/LICENSE)
