@@ -2,6 +2,7 @@
   "name": "tuvens",
   "version": "0.1.0",
   "private": true,
+  "description": "Organizando nossa presença física durante o COVID-19",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
