@@ -4,9 +4,7 @@ import Card from './components/Card/Card.jsx'
 
 const App = props => (
     <div>
-        <h1>Hello World</h1>
-        <Button>Hello Back!</Button>
-        <Card></Card>
+        <Card name="Trinfo" occupation="19 anos"></Card>
     </div>
 )
 
