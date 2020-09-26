@@ -1,3 +1,21 @@
 .room {
+    padding-bottom: 0;
     border-radius: 10px;
+    box-shadow:rgba(0, 0, 0, .25) 0 2px 5px;
+}
+
+.room__title {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.room__actions {
+    display: flex;
+    justify-content: space-between;
+}
+
+.room__actions > a {
+    font-weight: bold;
+    color: #2E2E2E;
+    border:#aaa;
 }
