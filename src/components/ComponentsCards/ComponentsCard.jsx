@@ -8,6 +8,7 @@ const ComponentsCard = ({children}) => {
     return (
         <Card className = "datas">
             <Card.Body>
+                {children}
             </Card.Body>
         </Card>
     )

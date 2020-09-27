@@ -1,0 +1,9 @@
+.days {
+    padding: 20px;
+    width: 800px;
+    height: 100px;
+}
+
+.day {
+    margin-left: 50px;
+}
