@@ -1,7 +1,9 @@
 .days {
-    padding: 20px;
+    padding: 7px;
     width: 800px;
-    height: 100px;
+    height: 150px;
+    box-shadow:rgba(0, 0, 0, .25) 0 2px 5px;
+
 }
 
 .day {

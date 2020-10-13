@@ -8,7 +8,7 @@ import Typography3 from './components/Typography/Typography3.jsx'
 import Typography4 from './components/Typography/Typography4.jsx'
 import Typography5 from './components/Typography/Typography5.jsx'
 import ComponentCalendar from './components/ComponentsCalendar/ComponentCalendar.jsx'
-import CardDays from './components/CardDays/CardDays'
+import CardDays from './components/CardDays/CardDays';
 
 import './App.css'
 
