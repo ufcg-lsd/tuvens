@@ -4,4 +4,13 @@
     font-family: 'Montserrat', sans-serif;
     color: black;
     font-weight: 600;
+    background-color: #F6F5FB;
+    height: 100vh;
+    width: 100vw;
+}
+
+.rooms {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }

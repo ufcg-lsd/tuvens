@@ -1,0 +1,10 @@
+.week {
+    padding: 7px;
+    max-width: 40vw;
+    border-radius: 5px;
+    border: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-radius: 15px;
+}
