@@ -1,6 +1,6 @@
 import React from 'react'
 import {Card} from 'react-bootstrap'
-import Typography5 from '../Typography/Typography5'
+import {Typography5} from '../Typography'
 
 import './ComponentCalendar.css'
 
