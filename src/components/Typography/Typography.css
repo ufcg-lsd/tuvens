@@ -1,0 +1,26 @@
+.semibold-title {
+    font-size: 32px;
+}
+
+.medium-title {
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.regular-italic-title {
+    font-style: italic;
+    font-size: 18px;
+    color: #aaaaaa;
+}
+
+.bold-titles > h1 {
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.semibold-titles > h1 {
+    text-transform: uppercase;
+    font-size: 22px;
+    color: #aaaaaa;
+}
