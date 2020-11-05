@@ -10,11 +10,11 @@ const Tuvens = () => (
      <div className="tuvens">
           <Container>
                <Calendar />
-               <div className="rooms">
+               {/* <div className="rooms">
                     <Card name="Carvalheira" occupation={19} />
                     <Card name="Serra Branca" occupation={13} />
                     <Card name="Triunfo" occupation={16} />
-               </div>
+               </div> */}
                {/* <ComponentsCards></ComponentsCards>
           <Typography1 text="Algum título por aqui"></Typography1>
           <Typography2 text="Qualquer coisa"></Typography2>
