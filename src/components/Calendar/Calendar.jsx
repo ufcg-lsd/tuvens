@@ -8,7 +8,7 @@ import './Calendar.css';
 const Calendar = () => {
 
     const [week, setWeek] = useState([]);
-    const [shift, setShift] = useState(4);
+    const [shift, setShift] = useState(0);
 
     const date = new Date();
 
